@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+	 font: 100%/1.25 Verdana, Helvetica, sans-serif;
+ 	 margin: 0 auto;
+ 	 max-width: 960px;
+ 	 background-color: #a8a8a8;
+}
+
+h1{
+	float: left;
+	height: 212px;
+	overflow: hidden;
+	display: block;
+	background: #a8a8a8 url(../images/MG_Icon.png) no-repeat left;
+}
+
+h1 a{
+	text-decoration: none;
+	color: black;
+}
+
+header p{
+	margin-left: 600px;
+}
+
+.bodycontent
+{
+	clear:both;
+	border-top: 2px solid black;
+	border-top-width: 95%;
+	border-bottom: 2px solid black;
+	border-bottom-width: 95%;
+	margin-bottom: 10px;
+}
+
+.bodycontent h2{
+	font: 100%/1.25 "Arial Black";
+	color: #BA1313;
+	
+}
+
+aside{
+	padding: 0px;
+	margin: 0px;
+}
+
+footer{
+	border: 2px solid black;
+	text-align: center;
+	margin-left: 25%;
+	margin-bottom: 15px;
+	overflow: hidden;
+	width: 55%;
+}
+
+
+
+
